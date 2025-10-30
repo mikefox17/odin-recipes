@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic HTML refresher thanks to the Odin Project. This will consist of basic HTML syntax, no CSS, page setup, anchor tags, and images. Git will also be used for version control.
